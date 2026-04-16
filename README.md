@@ -1,6 +1,9 @@
 # Raju-go-web-app
 
-Go Web Application
+
+**Go Web Application**
+
+
 This is a simple website written in Golang. It uses the net/http package to serve HTTP requests.
 
 Running the server
@@ -14,6 +17,7 @@ The server will start on port 8080. You can access it by navigating to http://lo
 
 Looks like this
 Website
+
 
 
 <img width="3582" height="1422" alt="image" src="https://github.com/user-attachments/assets/4393c54a-b31c-4353-9be6-b7d96a85774a" />
